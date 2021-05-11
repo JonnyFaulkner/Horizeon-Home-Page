@@ -6,5 +6,4 @@ changed html tags added comments to css and html page added easier to read inden
 
 https://jonnyfaulkner.github.io/Horizeon-Home-Page/
 
-<img src="./assets/images/Screenshot.png>
-
+![alt text](https://github.com/Jonnyfaulkner/Horizeon-Home-Page/assets/images/Screenshot.png)
