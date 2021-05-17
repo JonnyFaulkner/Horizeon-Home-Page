@@ -13,7 +13,7 @@ https://jonnyfaulkner.github.io/Horizeon-Home-Page/
 ## Screenshots
 ![alt text](https://github.com/Jonnyfaulkner/Horizeon-Home-Page/blob/main/assets/images/Screenshot.png)
 
-![alt text](https://github.com/Jonnyfaulkner/Horizeon-Home-Page/blob/main/assets/images/2021-05-16(2).png)
+![alt text](https://github.com/Jonnyfaulkner/Horizeon-Home-Page/blob/main/assets/images/2021-05-16%20(2).png)
 
 ## Work done
 Changed the elements for ease of use with screen readers.
